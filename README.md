@@ -11,7 +11,7 @@ The Lab Burguer - Um pequeno site de organização de pedidos pode ajudar a orga
 
 ### ⚙️ Conteúdo
 
-[Clique aqui para acessar](https://github.com/wasleyfps/the-burger-lab)
+[Clique aqui para acessar](https://wasleyfps.github.io/the-burger-lab/)
 
 ## 📦 Tecnologias usadas no game:
 
