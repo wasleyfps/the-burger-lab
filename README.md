@@ -2,6 +2,12 @@
 
 ![localhost_8080_ (2)](https://github.com/wasleyfps/the-burger-lab/assets/88601440/c2cd4422-ca93-4caa-87c2-305a37f1bd94)
 
+<p>
+The Lab Burguer - Um pequeno site de organização de pedidos pode ajudar a organizar pedidos utilizando VueJS, Single Page Application, passando duas Rotas, queria compartilhar com vocês esse projeto. 
+  
+</p>
+
+
 
 ### ⚙️ Conteúdo
 
